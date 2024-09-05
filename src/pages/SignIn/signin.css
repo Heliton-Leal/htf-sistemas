@@ -9,20 +9,15 @@
 
 .login {
   background-color: #efefef;
-  width: 900px;
+  width: 600px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-}
-
-.login-area {
-  width: 100%;
-  display: flex;
   justify-content: center;
+  flex-direction: column;
 }
 
 .login-area img {
-  width: 300px;
+  width: 280px;
   padding: 20px;
   /* height: 230px; */
 }
