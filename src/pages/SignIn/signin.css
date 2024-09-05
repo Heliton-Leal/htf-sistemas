@@ -33,6 +33,7 @@ form {
 form h1 {
   text-align: center;
   margin-bottom: 1rem;
+  color: #727271;
 }
 
 .login input {
@@ -57,5 +58,6 @@ form button {
 
 form a {
   margin: 1.5rem 0;
-  color: #000;
+  color: #727271;
+  font-size: 18px;
 }
